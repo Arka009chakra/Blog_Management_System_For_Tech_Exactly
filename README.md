@@ -45,7 +45,7 @@ FACEBOOK_APP_SECRET=Your_Facebook_App_Secret
 
 cd backend
 npm install
-npm start
+npm run dev
 
 # Frontend
 
